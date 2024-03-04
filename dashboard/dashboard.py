@@ -182,7 +182,7 @@ def load_and_filter_data(filename, start_date, end_date):
     return filtered_df
 
 # Memuat dan menyaring data
-bike_dataFrame = load_and_filter_data("Bike_data.csv", date_range[0], date_range[1])
+bike_dataFrame = load_and_filter_data("dashboard/Bike_data.csv", date_range[0], date_range[1])
 
 # Menampilkan visualisasi
 visualize_bike_count_by_weather(bike_dataFrame)
