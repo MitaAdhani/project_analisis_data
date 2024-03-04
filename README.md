@@ -1,4 +1,8 @@
 # Dicoding Collection Dashboard 🎊🎉
+Nama: Nadirahmita Adhani
+ID Bangkit: 7469916
+Kelompok: ML-02
+Email: nadirahmita@gmail.com 
 ## Setup Environment With Google Colab
 
 ```
